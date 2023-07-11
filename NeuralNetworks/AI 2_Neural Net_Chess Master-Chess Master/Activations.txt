@@ -1,0 +1,5 @@
+relu
+leakyrelu
+tanh
+leakyrelu
+leakyrelu
